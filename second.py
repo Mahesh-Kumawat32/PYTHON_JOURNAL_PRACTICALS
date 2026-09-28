@@ -1,0 +1,8 @@
+a = int(input("First Num : "))
+b = int(input("Second Num : "))
+print(f"SUM OF {a} AND {b} IS               : {a+b}")
+print(f"DIFFERENCE OF {a} AND {b} IS        : {a-b}")
+print(f"MULTIPLICATION OF {a} AND {b} IS    : {a*b}")
+print(f"DIVISION OF {a} AND {b} IS          : {a/b}")
+print(f"FLOOR DIVISION OF {a} AND {b} IS    : {a//b}")
+print(f"THE VALUE OF {a} ^ {b} IS           : {a**b}")
